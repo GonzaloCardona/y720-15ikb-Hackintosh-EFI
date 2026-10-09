@@ -6,6 +6,5 @@ Efi para mi lenovo legion y720-15ikb
 
 todo:
 - keyboard backlight
-- wifi (OCLP errno 13)
 - COEX BT&WIFI (o antenas?)
 - Tahoe???
